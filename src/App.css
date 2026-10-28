@@ -1,0 +1,17 @@
+.cv {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+  text-align: left;
+}
+.bloc {
+  border-bottom: 2px solid #ddd;
+  padding: 1rem 0;
+}
+.bloc h2 {
+  color: #2c5aa0;
+}
+.experience {
+  margin-bottom: 1rem;
+}
